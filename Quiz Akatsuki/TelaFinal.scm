@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"233","Source":"Form","Properties":{"$Name":"TelaFinal","$Type":"Form","$Version":"31","AlignHorizontal":"3","AlignVertical":"2","AppName":"P2_unip","BackgroundColor":"&HFF888888","Theme":"Classic","Title":"TelaFinal","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Legenda1","$Type":"Label","$Version":"5","FontBold":"True","FontItalic":"True","FontSize":"25","Text":"Parab\u00e9ns!!!","TextAlignment":"1","TextColor":"&HDFB405FF","Uuid":"-949053958"},{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"7","BackgroundColor":"&HFF000000","FontBold":"True","FontSize":"14","Text":"Tentar Novamente","TextColor":"&HFFFFFFFF","Uuid":"-542922397"}]}}
+|#
