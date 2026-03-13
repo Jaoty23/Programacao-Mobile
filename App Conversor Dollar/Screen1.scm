@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"233","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"31","AppName":"ConversaoDolar","Title":"Screen1","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"5","Text":"Cota\u00e7\u00e3o do D\u00f3lar ","Uuid":"1466922406"},{"$Name":"TextBox1","$Type":"TextBox","$Version":"14","Hint":"Hint for TextBox1","Uuid":"476034476"},{"$Name":"Label2","$Type":"Label","$Version":"5","Text":"Valor em D\u00f3lar","Uuid":"-2094511014"},{"$Name":"TextBox2","$Type":"TextBox","$Version":"14","Hint":"Hint for TextBox2","Uuid":"-446321685"},{"$Name":"Button1","$Type":"Button","$Version":"7","Text":"Converter em R$","Uuid":"-393080045"},{"$Name":"Notifier1","$Type":"Notifier","$Version":"6","Uuid":"780549657"}],"Theme":"Classic"}}
+|#
